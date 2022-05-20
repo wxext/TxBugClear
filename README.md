@@ -15,4 +15,4 @@ TxBugReport.exe 会记录每次崩溃错误信息
 
 # 下载
 
-[崩溃清理](https://pan.wyfxw.cn/plainwizard/TxBugClear.exe TxBugClear)
+[崩溃清理](https://pan.wyfxw.cn/plainwizard/TxBugClear.exe "TxBugClear")
