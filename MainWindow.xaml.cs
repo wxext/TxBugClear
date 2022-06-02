@@ -84,7 +84,7 @@ namespace TxBugClear
                     }
                     catch (Exception ex)
                     {
-                        txtLog.Text = ex.Message;
+                        txtLog.Text = ex.Message + Environment.NewLine + txtLog.Text;
                     }
                 }
             }
